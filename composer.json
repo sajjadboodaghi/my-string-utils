@@ -1,0 +1,19 @@
+{
+  "name": "sajjadboodaghi/my-string-utils",
+  "description": "Simple string utils for dealing easier with them",
+  "keywords": [
+    "string",
+    "utils"
+  ],
+  "homepage": "https://github.com/sajjadboodaghi/my-string-utils",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php" : "^7.1.3|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SajjadBoodaghi\\MyStringUtils\\": "src"
+    }
+  }
+}
